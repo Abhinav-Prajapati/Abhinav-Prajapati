@@ -1,9 +1,3 @@
-# 👾♟️ Knightmare - Trash-Talking Chess bot
-
-**Knightmare** is a physical chess-playing robot with AI-powered trash talk, inspired by the villains of movies and series. Its a ruthless opponent that doesn't just beat you—it humiliates you with style! ♟️😈
-
----
-
 # 🛠️ About Me
 
 Hey, I'm Abhinav! 👋
