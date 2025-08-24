@@ -25,7 +25,7 @@ Let’s build something awesome! 🚀
 - **Frontend:** React.js, Next.js, Tailwind CSS
 
 ### 🔹 Other Tools & Skills
-- **OS & Workflow:** Linux (EndeavourOS), Docker, Hyprland, i3wm, KDE 6(current), Qtile
+- **OS & Workflow:** Linux (EndeavourOS), Docker, Hyprland(current), i3wm, KDE 6(prev), Qtile
 - **Scripting & Automation:** Bash, Python scripts
 - 3D Printing, Electronics
 ---
